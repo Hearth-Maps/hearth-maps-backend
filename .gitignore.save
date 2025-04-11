@@ -1,0 +1,29 @@
+# Node.js / React
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+*.venv
+backend/.env
+backend/venv/
+backend/.pytest_cache/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Logs and misc
+*.log
+.env
+.env.*

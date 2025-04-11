@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Django database (if using SQLite)
+db.sqlite3
+
+# Django migrations
+*/migrations/
+
+# local env
+.env
+
+# logs
+*.log
+
+# system files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
